@@ -1,0 +1,19 @@
+.input {
+    border-color: var(--ion-color-medium-shade);
+    border-radius: 3px;
+   --border-radius: 25px;
+    --border-width: 1px;
+    --box-shadow: 2px gray;
+    --highlight-height: 0;
+    align-self: center;
+    margin-left: 10%;
+    margin-top: 5%;
+    width:80%;
+    --color:rgb(177, 163, 255);
+}
+.button {
+    --background:rgb(177, 163, 255) ;
+    margin-left: 10%;
+    margin-top: 5%;
+    width:80%;
+}
